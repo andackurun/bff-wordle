@@ -1,0 +1,115 @@
+[
+  {
+    "word": "price",
+    "phonetic": "prʌɪs",
+    "phonetics": [
+      {
+        "text": "prʌɪs",
+        "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/price--1_gb_1.mp3"
+      }
+    ],
+    "origin": "Middle English: the noun from Old French pris, from Latin pretium ‘value, reward’; the verb, a variant (by assimilation to the noun) of earlier prise  ‘estimate the value of’ (see prize1). Compare with praise.",
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "the amount of money expected, required, or given in payment for something.",
+            "example": "land could be sold for a high price",
+            "synonyms": [
+              "cost",
+              "asking price",
+              "selling price",
+              "charge",
+              "fee",
+              "terms",
+              "payment",
+              "rate",
+              "fare",
+              "levy",
+              "toll",
+              "amount",
+              "sum",
+              "total",
+              "figure",
+              "worth",
+              "(monetary) value",
+              "outlay",
+              "expense",
+              "expenses",
+              "expenditure",
+              "bill",
+              "valuation",
+              "quotation",
+              "estimate",
+              "damage"
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "an unwelcome experience or action undergone or done as a condition of achieving an objective.",
+            "example": "the price of their success was an entire day spent in discussion",
+            "synonyms": [
+              "consequence",
+              "result",
+              "cost",
+              "toll",
+              "penalty",
+              "sacrifice",
+              "forfeit",
+              "forfeiture",
+              "downside",
+              "snag",
+              "drawback",
+              "disadvantage",
+              "minus",
+              "trial",
+              "torment",
+              "bane",
+              "tribulation",
+              "affliction",
+              "suffering",
+              "burden",
+              "trouble",
+              "worry",
+              "deprivation",
+              "undesirable consequence",
+              "disbenefit"
+            ],
+            "antonyms": [
+              "reward",
+              "advantage"
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "decide the amount required as payment for (something offered for sale).",
+            "example": "the watches are priced at £55",
+            "synonyms": [
+              "fix/set the price of",
+              "put a price on",
+              "cost",
+              "value",
+              "rate",
+              "evaluate",
+              "assess",
+              "estimate",
+              "appraise",
+              "assay"
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "discover or establish the price of (something for sale).",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  }
+]
