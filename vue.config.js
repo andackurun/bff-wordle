@@ -2,5 +2,5 @@ module.exports = {
   transpileDependencies: [
     'vuetify'
   ],
-  publicPath: 'bff-wordle'
+  publicPath: '/bff-wordle/'
 }
